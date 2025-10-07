@@ -59,7 +59,7 @@ lib/
 
 ## Inisialisasi Proyek
 
-Proyek ini diinisialisasi berdasarkan dokumentasi resmi Flutter di [https://api.flutter.dev/](https://api.flutter.dev/), dengan mengikuti prinsip dan praktik terbaik Flutter terkini.
+Proyek ini diinisialisasi berdasarkan dokumentasi resmi Flutter di [https://api.flutter.dev/](https://api.flutter.dev/), dengan mengikuti prinsip dan praktik langsung dari dokumentasi Flutter terkini.
 
 Untuk menjalankan proyek ini:
 
