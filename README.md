@@ -44,17 +44,6 @@ Semua fitur dirancang menggunakan pendekatan **Material Design 3** dan mengikuti
 ```
 lib/
   main.dart
-  core/db/app_db.dart
-  data/models/item.dart
-  data/models/profile.dart
-  data/dao/item_dao.dart
-  data/dao/profile_dao.dart
-  data/seed/seed.dart
-  features/home/home_screen.dart
-  features/favorites/favorites_screen.dart
-  features/profile/profile_screen.dart
-  features/items/widgets/item_card.dart
-  state/providers.dart
 ```
 
 ## Inisialisasi Proyek
@@ -78,6 +67,6 @@ Proyek ini bertujuan untuk:
 
 ---
 
-© 2025 — Disusun oleh 
-**M. Rizki Algipari**
+© 2025 — Disusun oleh<br>
+**M. Rizki Algipari**<br>
 **Yonathan Rinfi**
