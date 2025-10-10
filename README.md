@@ -78,4 +78,6 @@ Proyek ini bertujuan untuk:
 
 ---
 
-© 2025 — Disusun oleh **M. Rizki Algipari**
+© 2025 — Disusun oleh 
+**M. Rizki Algipari**
+**Yonathan Rinfi**
